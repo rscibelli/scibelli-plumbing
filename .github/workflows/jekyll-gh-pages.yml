@@ -44,7 +44,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           cname: scibelliplumbing.com
-          publish_branch: master
 
   # Build job
   # build:
