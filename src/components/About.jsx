@@ -22,10 +22,7 @@ function About() {
             <div className="col-md-8">
               <h3 className="mb-3">Meet the Owner</h3>
               <p className="lead">
-                Scibelli Plumbing has been serving the community with expert plumbing and heating services for over 20 years. Our licensed professionals are committed to quality, reliability, and customer satisfaction.
-              </p>
-              <p>
-                Founded by Mike Scibelli, our family-owned business has built a reputation for honest work, fair pricing, and exceptional service. We treat every home like our own and every customer like family.
+                Description comming soon!
               </p>
             </div>
           </div>
@@ -48,8 +45,7 @@ function About() {
                   <h5 className="card-title text-primary">Why Choose Us?</h5>
                   <ul className="list-unstyled">
                     <li className="mb-2">✓ Licensed & Insured</li>
-                    <li className="mb-2">✓ 20+ Years Experience</li>
-                    <li className="mb-2">✓ Emergency Services Available</li>
+                    <li className="mb-2">✓ 5+ Years Experience</li>
                     <li className="mb-2">✓ Competitive Pricing</li>
                     <li className="mb-2">✓ Customer Satisfaction Guaranteed</li>
                   </ul>

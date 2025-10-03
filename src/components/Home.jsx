@@ -13,7 +13,7 @@ function Home() {
         <div className="col-lg-6">
           <h1 className="display-4 mb-4">Welcome to Scibelli Plumbing & Heating</h1>
           <p className="lead">Your trusted partner for all plumbing and heating needs.</p>
-          <p className="mb-4">Professional, reliable service with over years of experience in the industry.</p>
+          <p className="mb-4">Professional, reliable service with many years of experience in the industry.</p>
           <button className="btn btn-primary btn-lg me-3">Get a Quote</button>
           <button className="btn btn-outline-secondary btn-lg">Call Now</button>
         </div>
