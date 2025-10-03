@@ -21,8 +21,14 @@ function About() {
             </div>
             <div className="col-md-8">
               <h3 className="mb-3">Meet the Owner</h3>
-              <p className="lead">
-                Description comming soon!
+              <p >
+                With years of hands-on experience, Mike has built his reputation on honesty, reliability, and high-quality workmanship. As a licensed plumber, he's handled everything from small household repairs to complex plumbing installations, always with the same attention to detail and care.
+              </p>
+              <p>
+                Mike believes plumbing is more than fixing pipes, it's about making people's lives easier and homes more comfortable. He takes the time to listen, explain solutions clearly, and ensure every job is done right the first time. His friendly, dependable approach has earned him the trust of countless homeowners and businesses who know they can rely on him in any situation.             
+              </p>
+              <p>
+                When you call Mike, you're not just hiring a plumber, you're gaining a trusted professional who treats your home like his own.        
               </p>
             </div>
           </div>
@@ -59,7 +65,7 @@ function About() {
             <h4 className="mb-3">Ready to Get Started?</h4>
             <p className="mb-4">Contact us today for a free estimate on your plumbing or heating needs.</p>
             <button className="btn btn-primary btn-lg me-3">Get Free Estimate</button>
-            <button className="btn btn-outline-secondary btn-lg">Call (555) 123-4567</button>
+            <button className="btn btn-outline-secondary btn-lg">Call (413) 335-8743</button>
           </div>
         </div>
       </div>
