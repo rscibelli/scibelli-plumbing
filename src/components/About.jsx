@@ -64,7 +64,6 @@ function About() {
           <div className="text-center mt-5">
             <h4 className="mb-3">Ready to Get Started?</h4>
             <p className="mb-4">Contact us today for a free estimate on your plumbing or heating needs.</p>
-            <button className="btn btn-primary btn-lg me-3">Get Free Estimate</button>
             <button className="btn btn-outline-secondary btn-lg">Call (413) 335-8743</button>
           </div>
         </div>
