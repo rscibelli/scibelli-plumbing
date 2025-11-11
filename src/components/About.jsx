@@ -7,7 +7,7 @@ function About() {
           <div className="row align-items-center mb-5">
             <div className="col-md-4 text-center mb-4 mb-md-0">
               <img 
-                // src="https://photos.fife.usercontent.google.com/pw/AP1GczNoXDHlUjHU4rAp_uP9bgh05AVM4vcVEhcQyenAEcB-bQ5fHymweC5Lmg=w1188-h1594-s-no-gm?authuser=0" 
+                // src="https://lh3.googleusercontent.com/pw/AP1GczPRgWQcydFvuphGPis26xBM8tba17HRqwKgmRlL1eHsnXE56cfNU5LYUz6XnSSnE7AWNeeUkeZ7UCkj-Vt0KheJqgFEBkfvpnuh6myb59ZB3RfhtsmiKuYmiGxZSnLE_bmBftjjC0tD0hOfG_G0XGHm-Q=w1188-h1594-s-no-gm" 
                 src="https://media.licdn.com/dms/image/v2/C4E03AQH7tlcK3woE3A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1608084675274?e=2147483647&v=beta&t=JFuVk4ciKCDHR--j3UnEk1O4qj8PRFMRblaxaKPNk-s" 
                 alt="Owner of Scibelli Plumbing & Heating" 
                 className="img-fluid rounded-circle shadow"
@@ -64,7 +64,9 @@ function About() {
           <div className="text-center mt-5">
             <h4 className="mb-3">Ready to Get Started?</h4>
             <p className="mb-4">Contact us today for a free estimate on your plumbing or heating needs.</p>
-            <button className="btn btn-outline-secondary btn-lg">Call (413) 335-8743</button>
+            <a href="tel:4133358743" className="btn btn-outline-secondary btn-lg">
+              Call (413) 335-8743
+            </a>
           </div>
         </div>
       </div>
